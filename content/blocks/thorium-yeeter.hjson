@@ -1,7 +1,7 @@
 type: GenericSmelter
 name: Thorium Yeeter
 description: Yeets copper to synthesize thorium.
-size: 2
+size: 3
 health: 120
 hasPower: false
 hasLiquids: false

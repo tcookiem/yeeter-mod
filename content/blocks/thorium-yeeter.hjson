@@ -10,12 +10,16 @@ itemCapacity: 10
 craftTime: 80
 updateEffect: lancerLaserShootSmoke
 consumes: {
-  item: copper/2
+  items: {
+    items: [
+      copper/2
+    ]
+  }
 }
 requirements: [
   copper/100
 ]
-outputItem: thorium/2
+outputItem: thorium/1
 category: crafting
 research: graphite-press
 idleSound: respawning

@@ -1,0 +1,6 @@
+name: Test Mod
+displayName: [yellow]T[pink]h[yellow]o[pink]r[yellow]i[pink]u[yellow]m [pink]Y[yellow]e[pink]e[yellow]t[pink]e[yellow]r[] Mod
+author: tcookiem
+description: A balancing mod that adds the Thorium Yeeter.
+version: "1.0"
+minGameVersion: "102.3"

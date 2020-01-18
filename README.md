@@ -13,7 +13,7 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters.
 
   Build cost: 100 copper
 
-- **Thorium Yeeter**
+- **Surge Yeeter**
 
   Late early-game crafting block that synthesizes surge alloy from titanium.
 

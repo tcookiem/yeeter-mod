@@ -8,7 +8,7 @@ hasLiquids: false
 hasItems: true
 itemCapacity: 10
 craftTime: 80
-updateEffect: lancerLaserShootSmoke
+updateEffect: mineBig
 consumes: {
   items: {
     items: [

@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Surge Yeeter
-description: Yeets titanium to synthesize surge.
+description: Yeets titanium to synthesize surge alloy.
 size: 3
 health: 150
 hasPower: false
@@ -19,9 +19,9 @@ consumes: {
 requirements: [
   titanium/100
 ]
-outputItem: surge/1
+outputItem: surge-alloy/1
 category: crafting
-research: graphite-press
+research: thorium-yeeter
 idleSound: respawning
 idleSoundVolume: 0.4
 activeSound: break

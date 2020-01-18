@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Plastanium Yeeter
+description: Yeets titanium to synthesize surge alloy.
+size: 3
+health: 150
+hasPower: false
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 90
+updateEffect: mineBig
+consumes: {
+  items: {
+    items: [
+      titanium/2
+    ]
+  }
+}
+requirements: [
+  titanium/100
+]
+outputItem: surge-alloy/1
+category: crafting
+research: thorium-yeeter
+idleSound: respawning
+idleSoundVolume: 0.4
+activeSound: break
+activeSoundVolume: 0.1

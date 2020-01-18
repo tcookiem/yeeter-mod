@@ -1,4 +1,4 @@
-# Yeeter Mod
+# [Yeeter Mod](https://github.com/tcookiem/yeeter-mod/wiki)
 A test mod I've made for the game Mindustry, for fun. Adds yeeters.
 
 ## Features

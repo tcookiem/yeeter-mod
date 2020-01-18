@@ -1,6 +1,5 @@
-![Yeeter Mod Logo](https://github.com/tcookiem/yeeter-mod/blob/master/logo.png)
+[![Yeeter Mod Logo](https://github.com/tcookiem/yeeter-mod/blob/master/logo.png)](https://github.com/tcookiem/yeeter-mod/wiki)  
 
-# [Yeeter Mod](https://github.com/tcookiem/yeeter-mod/wiki)
 A test mod I've made for the game Mindustry, for fun. Adds yeeters.
 
 ## Features

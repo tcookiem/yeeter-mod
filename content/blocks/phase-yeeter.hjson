@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Phase Yeeter
+description: Yeets coal to synthesize phase fabric.
+size: 3
+health: 140
+hasPower: false
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 90
+updateEffect: mineBig
+consumes: {
+  items: {
+    items: [
+      coal/2
+    ]
+  }
+}
+requirements: [
+  graphite/100
+]
+outputItem: phase-fabric/1
+category: crafting
+research: thorium-yeeter
+idleSound: respawning
+idleSoundVolume: 0.4
+activeSound: break
+activeSoundVolume: 0.1

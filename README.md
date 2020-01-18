@@ -17,7 +17,12 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters.
   Early-game crafting block that synthesizes phase fabric from coal.  
   Input: 2 coal  
   Output: 1 phase fabric  
-  Build cost: 50 lead, 50 graphite 
+  Build cost: 50 lead, 50 graphite  
+- **Blast Yeeter**  
+  Late early-game crafting block that synthesizes blast compound from sand.  
+  Input: 2 sand  
+  Output: 1 blast compound  
+  Build cost: 75 copper, 25 silicon  
 - **Surge Yeeter**  
   Late early-game crafting block that synthesizes surge alloy from titanium.  
   Input: 2 titanium  

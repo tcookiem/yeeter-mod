@@ -1,0 +1,9 @@
+name: Pee
+description: Literal urine.
+flammability: 0.1
+temperature: 0.5
+heatCapacity: 0.3
+viscosity: 0.5
+explosiveness: 0.1
+effect: wet
+color: e8d98c

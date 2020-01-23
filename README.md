@@ -28,5 +28,5 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters.
   Input: 2 titanium  
   Output: 1 surge alloy  
   Build cost: 100 titanium  
-- **Pee**  
-  Literal urine.  
+- [**Pee**](https://github.com/tcookiem/yeeter-mod/wiki/Pee)  
+  Unobtainable liquid with no practical use.  

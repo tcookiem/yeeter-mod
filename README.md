@@ -1,6 +1,6 @@
 [![Yeeter Mod Logo](https://github.com/tcookiem/yeeter-mod/blob/master/logo.png)](https://github.com/tcookiem/yeeter-mod/wiki)  
 
-A test mod I've made for the game Mindustry, for fun. Adds yeeters.
+A test mod I've made for the game Mindustry, for fun. Adds yeeters (and pee).
 
 ## Features
 - [**Thorium Yeeter**](https://github.com/tcookiem/yeeter-mod/wiki/Thorium-Yeeter)  

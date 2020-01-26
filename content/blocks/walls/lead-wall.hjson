@@ -1,0 +1,10 @@
+name: Lead Wall
+description: A cheap defensive block. Useful for a quick upgrade from copper.
+type: Wall
+health: 380
+size: 1
+requirements: [
+  lead/6
+]
+category: defense
+research: copper-wall

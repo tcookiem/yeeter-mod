@@ -1,6 +1,6 @@
 [![Yeeter Mod Logo](https://github.com/tcookiem/yeeter-mod/blob/master/logo.png)](https://github.com/tcookiem/yeeter-mod/wiki)  
 
-A test mod I've made for the game Mindustry, for fun. Adds yeeters (and pee).
+A test mod I've made for the game Mindustry, for fun. Adds yeeters, lead walls and pee.
 
 ## Features
 - [**Thorium Yeeter**](https://github.com/tcookiem/yeeter-mod/wiki/Thorium-Yeeter)  
@@ -28,5 +28,15 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters (and pee).
   Input: 2 titanium  
   Output: 1 surge alloy  
   Build cost: 100 titanium  
+- [**Lead Wall**](https://github.com/tcookiem/yeeter-mod/wiki/Lead-Wall)  
+  Early-game defensive block made from lead. No special properties.  
+  Health: 380  
+  Build cost: 6 lead  
+- [**Large Lead Wall**](https://github.com/tcookiem/yeeter-mod/wiki/Large-Lead-Wall)  
+  Upgraded, larger version of lead wall. No special properties.  
+  Health: 1520  
+  Build cost: 24 lead  
 - [**Pee**](https://github.com/tcookiem/yeeter-mod/wiki/Pee)  
   Unobtainable liquid with no practical use.  
+- **Minor sprite override changes**  
+  - Ripple body replaced with epic minecraft skin by [Ski12345](https://github.com/Ski12345)

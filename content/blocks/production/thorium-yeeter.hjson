@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Thorium Yeeter
+description: Yeets copper to synthesize thorium.
+size: 3
+health: 120
+hasPower: false
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 80
+updateEffect: mineBig
+consumes: {
+  items: {
+    items: [
+      copper/2
+    ]
+  }
+}
+requirements: [
+  copper/100
+]
+outputItem: thorium/1
+category: crafting
+research: graphite-press
+idleSound: respawning
+idleSoundVolume: 0.4
+activeSound: break
+activeSoundVolume: 0.1

@@ -1,7 +1,7 @@
 name: Pee
 description: Literal urine.
 flammability: 0.1
-temperature: 0.5
+temperature: 0.65
 heatCapacity: 0.3
 viscosity: 0.5
 explosiveness: 0.1

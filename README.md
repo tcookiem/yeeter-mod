@@ -39,5 +39,5 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters, lead walls a
 - [**Pee**](https://github.com/tcookiem/yeeter-mod/wiki/Pee)  
   Unobtainable liquid with no practical use.  
 - **Minor sprite override changes**  
-  - Ripple body replaced with epic minecraft skin by [Ski12345](https://github.com/Ski12345)
-  - Thorium walls changed to the colour of the item
+    - Ripple body replaced with epic minecraft skin by [Ski12345](https://github.com/Ski12345)
+    - Thorium walls changed to the colour of the item

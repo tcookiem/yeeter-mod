@@ -28,6 +28,13 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters, lead walls a
   Input: 2 titanium  
   Output: 1 surge alloy  
   Build cost: 100 titanium  
+- [**Yeet Turret**](https://github.com/tcookiem/yeeter-mod/wiki/Yeet-Turret)  
+  Early-game fast but inaccurate turret.
+  Range: 13 blocks
+  Inaccuracy: 45 degrees
+  Shots/second: 20
+  Targets: Ground and air
+  Ammo: copper, lead, silicon
 - [**Lead Wall**](https://github.com/tcookiem/yeeter-mod/wiki/Lead-Wall)  
   Early-game defensive block made from lead. No special properties.  
   Health: 380  
@@ -38,6 +45,6 @@ A test mod I've made for the game Mindustry, for fun. Adds yeeters, lead walls a
   Build cost: 24 lead  
 - [**Pee**](https://github.com/tcookiem/yeeter-mod/wiki/Pee)  
   Unobtainable liquid with no practical use.  
-- **Minor sprite override changes**  
+- **Minor sprite override changes** (menu icons not implemented)  
     - Ripple body replaced with epic minecraft skin by [Ski12345](https://github.com/Ski12345) because why not
-    - Thorium walls changed to the colour of the item (icon in menu still wrong colour)
+    - Thorium walls changed to the colour of the item

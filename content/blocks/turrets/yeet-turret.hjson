@@ -1,0 +1,46 @@
+type: DoubleTurret
+name: Yeet Turret
+description: Yeets many small but destructive bullets at the enemy.
+health: 800
+size: 2
+reload: 3
+range: 104
+ammoUseEffect: shellEjectSmall
+inaccuracy: 45
+rotatespeed: 12
+ammo: {
+  copper: {
+    speed: 3
+    damage: 9
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 6
+  }
+  lead: {
+    speed: 3
+    damage: 12
+    bulletWidth: 8
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+  silicon: {
+    speed: 2
+    damage: 10
+    bulletWidth: 7
+    bulletHeight: 11
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 7
+    homingPower: 0.1
+    homingRange: 52
+  }
+}
+requirements: [
+  copper/140
+]
+category: turret
+research: duo

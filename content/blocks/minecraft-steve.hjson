@@ -1,0 +1,10 @@
+name: steve
+description: lmao
+type: Wall
+health: 69420
+size: 3
+requirements: [
+  copper/69
+]
+category: defense
+research: incinerator

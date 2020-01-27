@@ -7,7 +7,7 @@ reload: 3
 range: 104
 ammoUseEffect: shellEjectSmall
 inaccuracy: 45
-rotatespeed: 12
+rotatespeed: 24
 ammo: {
   copper: {
     speed: 3
@@ -28,15 +28,15 @@ ammo: {
     ammoMultiplier: 5
   }
   silicon: {
-    speed: 2
+    speed: 3
     damage: 10
     bulletWidth: 7
     bulletHeight: 11
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 7
-    homingPower: 0.1
-    homingRange: 52
+    ammoMultiplier: 10
+    homingPower: 0.2
+    homingRange: 120
   }
 }
 requirements: [
